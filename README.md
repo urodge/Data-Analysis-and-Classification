@@ -1,5 +1,3 @@
-# Data-Analysis-and-Classification
-
 # Data Analysis and Classification Project
 
 ## 📜 Project Overview
